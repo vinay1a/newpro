@@ -1,11 +1,14 @@
 
-#Steps to use the github**
+#Steps to use the github
 Step 1:
 Create the github account by using below link
-(https://github.com/join?source=header-home)
-and fill all the required feilds and verify the email address.
-Step 2: sign in into your git hub account and create new repository
-step 3: Install Git in your local system
+(https://github.com/join?source=header-home) 
+and fill all the required feilds and verify the email address.--
+
+Step 2: sign in into your git hub account and create new repository --
+
+step 3: Install Git in your local system --
+
 for Ubuntu use the below command
 sudo apt-get install
 for cent os by default it will be installed
