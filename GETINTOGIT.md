@@ -11,7 +11,8 @@ step 3: Install Git in your local system
 
 for Ubuntu use the below command	
 
-```sudo apt-get install```
+```sudo apt-get install git```		
+
 for cent os by default it will be installed		
 
 check and verfy the git version
@@ -20,13 +21,16 @@ expected output is the version of the git.
 
 step 4 configure the git account		
 
-```git config --global user.name "your loginname"```
+```git config --global user.name "your loginname"```		
+
 ```git config --global user.email "your email"```		
 
 #create one new directory and go inside the directory 
-step 5 initialize the git
+step 5 initialize the git by below command		
+
 ```git init```
-step 6 
+step 6 add remote repository to local		
+
 ```git remote add origin httpurl```		
  
 The http link you can get by web interface once you logged into the github select the repository and in the reight corner option will come up t
@@ -36,8 +40,11 @@ step 7
 
 How to upload the local file to repository??
 ```git add filename``` 		
-replace filename with your filename
-```git commit -m "some commit message"```
-```git push origin master```
+replace filename with your filename		
+
+```git commit -m "some commit message"```		
+
+```git push origin master```		
+
 it will prompt the username and password give the creddentials.
 
