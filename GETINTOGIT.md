@@ -1,8 +1,8 @@
-```
-**Steps to use the github
+
+#Steps to use the github**
 Step 1:
 Create the github account by using below link
-https://github.com/join?source=header-home 
+(https://github.com/join?source=header-home)
 and fill all the required feilds and verify the email address.
 Step 2: sign in into your git hub account and create new repository
 step 3: Install Git in your local system
@@ -34,4 +34,4 @@ git add filename
 git commit -m "some commit message"
 git push origin master
 it will prompt the username and password give the creddentials.
-```
+
