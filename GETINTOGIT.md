@@ -33,8 +33,7 @@ step 6 add remote repository to local
 
 ```git remote add origin httpurl```		
  
-The http link you can get by web interface once you logged into the github select the repository and in the reight corner option will come up t
-o clone or download select the option and url will be appeared,copy the url and replace the hhtp link with your http link.
+The http link you can get by web interface once you logged into the github select the repository and in the reight corner option will come up to clone or download select the option and url will be appeared,copy the url and replace the http link with your http link.
 step 7
  create one file with .md extension and add some content
 
